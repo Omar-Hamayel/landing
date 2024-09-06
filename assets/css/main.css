@@ -1,5 +1,4 @@
 @import './base.css';
-@import './media.css';
 body{
     font-family: var(--mainFont);
     background-color:#eee;
